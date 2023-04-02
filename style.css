@@ -1,9 +1,16 @@
 body {
-    background: rgb(130, 172, 229);
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    font-family: 'Kurale', Arial, Helvetica, sans-serif;
+    background: rgba(20, 130, 150, 0.7);
+    color: #282525;
 }
 
 h1 {
+    text-align: center;
     border-bottom: 2px solid rgb(226, 144, 171);
+    color: white;
 }
 
 button {
@@ -19,5 +26,3 @@ button {
 img {
     width: 400px;
     height: 500px;
-}
-
